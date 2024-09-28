@@ -19,13 +19,12 @@ const Footer = () => {
 
 
     <div className="footer__socials" data-aos="fade-up" data-aos-anchor=".footer__container"  data-aos-duration='1600'>
-      <a href="https://www.linkedin.com/in/erifeoluwa-femi-ladiran/"><BsLinkedin/></a>
-      <a href="https://www.instagram.com/for_timi/"><BsInstagram/></a>
-      <a href="https://www.codewars.com/users/timicodes/"><SiCodewars/></a>
+    <a href="https://www.linkedin.com/in/aditya-tiwari-31b785250/"><BsLinkedin/></a>
+    <a href="https://www.instagram.com/aditya_titu/"><BsInstagram/></a>
     </div>
 
     <div className="footer__copyright" data-aos="fade-up" data-aos-anchor=".footer__container"  data-aos-duration='1800'>
-      <small>&copy; Femi-Ladiran Erifeoluwa. All rights reserved</small>
+      <small>&copy; Aditya Tiwari. All rights reserved</small>
     </div>
    </footer>
   )

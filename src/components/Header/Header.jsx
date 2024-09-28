@@ -22,7 +22,7 @@ const Header = () => {
           data-aos-anchor=".header__container"
           data-aos-duration="1000"
         >
-          Erifeoluwa Femi-Ladiran
+          Aditya Tiwari 
         </h1>
         <h5
           data-aos="fade-up"
@@ -30,7 +30,7 @@ const Header = () => {
           data-aos-duration="900"
           className="text-light"
         >
-          Full-stack Software Developer
+          Full-stack Web Developer
         </h5>
         <CTA />
 

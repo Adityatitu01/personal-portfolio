@@ -39,24 +39,24 @@ const Contact = () => {
           <article className="contact__option" data-aos="fade-up" data-aos-anchor=".contact__container"  data-aos-duration='1600'>
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>femiladiranerife24@gmail.com</h5>
-            <a href="mailto:femiladiranerife24@gmail.com" target='_blank'  rel="noreferrer">Email me</a>
+            <h5>Aditya895754@gmail.com</h5>
+            <a href="mailto:Aditya895754@gmail.com" target='_blank'  rel="noreferrer">Email me</a>
           </article>
 
           {/* Linkedin  */}
           <article className="contact__option" data-aos="fade-up" data-aos-anchor=".contact__container"  data-aos-duration='1300'>
             <BsLinkedin className='contact__option-icon'/>
             <h4>Linkedin</h4>
-            <h5>Erifeoluwa Femi-Ladiran</h5>
-            <a href="https://www.linkedin.com/in/erifeoluwa-femi-ladiran/" target='_blank'  rel="noreferrer">Let's connect</a>
+            <h5>Aditya Tiwari</h5>
+            <a href="https://www.linkedin.com/in/aditya-tiwari-31b785250/" target='_blank'  rel="noreferrer">Let's connect</a>
           </article>
 
           {/* Instagram  */}
           <article className="contact__option" data-aos="fade-up" data-aos-anchor=".contact__container"  data-aos-duration='1000'>
             <BsInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
-            <h5>for_timi</h5>
-            <a href="https://ig.me/m/for_timi" target='_blank'  rel="noreferrer">Send a DM</a>
+            <h5>for_Aditya</h5>
+            <a href="https://www.instagram.com/aditya_titu/" target='_blank'  rel="noreferrer">Send a DM</a>
           </article>
 
           

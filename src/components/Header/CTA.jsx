@@ -6,7 +6,7 @@ const CTA = () => {
       <a
         data-aos="fade-right"
         target="_blank"
-        href="https://docs.google.com/gview?url=https://obsidi-assets-prd.s3.amazonaws.com/uploads/eb21b7a9-133d-4ce9-85f7-d3c019b8f305/docs/resume-1701151587082.pdf"
+        href="https://drive.google.com/file/d/14F_cNSW_9-WQ7cRcTZnnh2hMfNrjC_J2/view?usp=drive_link"
         className="btn"
         rel="noreferrer"
       >

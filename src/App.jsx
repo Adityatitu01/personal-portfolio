@@ -10,6 +10,7 @@ import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
 import AOS from 'aos';
 import Loader from './components/Loader/Loader';
+import Home from './components/Home'
 
 
 const App = () => {
@@ -62,6 +63,7 @@ const App = () => {
   return (
    isLoading ? <Loader/> : (
     <>
+    <Home />
       {/* Header section  */}
       <Header/>
 

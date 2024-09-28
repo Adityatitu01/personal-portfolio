@@ -55,29 +55,29 @@ const About = () => {
             <article className="about__card" data-aos="fade-left" data-aos-anchor=".about__cards"  data-aos-duration="500">
                 <FaAward className='about__icon'/>
                 <h5>Experience</h5>
-                <small>4+ years Experience</small>
+                <small>240+ Hours Experience</small>
             </article>
 
             {/* Collaborators  */}
             <article className="about__card" data-aos="fade-left" data-aos-anchor=".about__cards"  data-aos-duration="700">
                 <FiUsers className='about__icon'/>
                 <h5>Collaborators</h5>
-                <small>30+ Worldwide</small>
+                <small>3+ India <br/>Tech Enthusiast</small>
             </article>
 
             {/* Projects  */}
             <article className="about__card" data-aos="fade-left" data-aos-anchor=".about__cards"  data-aos-duration="900">
                 <BsClipboardCheck className='about__icon'/>
                 <h5>Projects</h5>
-                <small>50+ Completed projects</small>
+                <small>5+ Completed projects</small>
             </article>
           </div>
 
            <p  data-aos="fade-up" data-aos-anchor=".about__content"  data-aos-duration="1000">
-               Hello, There. I'm Femi-Ladiran Erifeoluwa but everyone calls me Timi. <br />
+               Hello, There. I'm Aditya Tiwari but everyone calls me Tiwari. <br />
               I am a Full-Stack software Developer that specializes in building creative and intuitive full stack web applications.
               <br />
-            A soccer, piano, and outdoor activity enthusiast. interested in building full stack applications and working on ambitious projects and positive people. Let's build something useful together
+            A Cricket, Volleyball, and indoor activity enthusiast. interested in building full stack applications and working on ambitious projects and positive people. Let's build something useful together
            </p>
 
            <a href='#contact' className='btn btn-primary' data-aos="fade-up" data-aos-anchor=".about__content"  data-aos-duration="1200">Let's chat <FaTelegramPlane/></a>
